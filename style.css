@@ -15,7 +15,7 @@ h2 {
     color: #66bfbf;
     font-family: "Noto Sans", sans-serif;
     font-size: 2rem;
-    font-weight: normal;
+    font-weight: bold;
     padding-bottom: 10px;
   }
   .pro{
@@ -39,8 +39,25 @@ h2 {
     top:325px;
     left:250px;
 }
+.myimage{
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+   margin-top: 30px;
+}
 
+p{
 
+line-height: 2;
+
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
 
 
   
